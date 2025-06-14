@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'nanopb'
-  s.version          = '1.0.0'
+  s.version          = '3.30910.0'
   s.summary          = 'A small code-size Protocol Buffers implementation in ANSI C'
   s.description      = <<-DESC
                         nanopb is a small code-size Protocol Buffers implementation in ANSI C, suitable for microcontrollers.
